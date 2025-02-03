@@ -26,7 +26,7 @@ This project demonstrates the implementation of **Multi-Factor Authentication (M
 
 ## Code Examples
 
-### Node.js (SMS-based MFA)
+### Node.js (SMS-based MFA) & (Email-based MFA)
 ```javascript
 const express = require('express');
 const twilio = require('twilio');
